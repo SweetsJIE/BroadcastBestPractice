@@ -1,0 +1,7 @@
+#Tue Jan 17 04:40:48 CST 2017
+base.0=/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c893a8d47d5b7ff0825e2c2a5ae5a498f75d5929
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a75644532872bc3526d52314e9b0d3d905ec6c1a/classes.dex
+base.1=/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a75644532872bc3526d52314e9b0d3d905ec6c1a
+file.0=/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c893a8d47d5b7ff0825e2c2a5ae5a498f75d5929/classes.dex

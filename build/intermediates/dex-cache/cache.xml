@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5838d3e472ab8c1a8f9e458d4a34dd4dfae5fa8e">
+        <dex dex="/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c893a8d47d5b7ff0825e2c2a5ae5a498f75d5929/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sweets/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_175efcf667e57caf60dc5b18b7e385fa71b6b9bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d83387c4690f5ea00331fcf46a89a7fa636ca1af">
+        <dex dex="/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a75644532872bc3526d52314e9b0d3d905ec6c1a/classes.dex" />
+    </item>
+
+</items>

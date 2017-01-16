@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sweets/Desktop/BroadcastBestPractice/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sweets/Desktop/BroadcastBestPractice/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/sweets/Desktop/BroadcastBestPractice/app/src/main/res/layout/login.xml"
+    }
+]
